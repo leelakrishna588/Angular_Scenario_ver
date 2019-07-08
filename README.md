@@ -72,4 +72,4 @@ Run `ng generate module module-name` to generate a new module.
 
 ## link of this repository
 
-https://leelakrishna588.github.io/Angular_Scenario_ver/.
+https://leelakrishna588.github.io/Angular_Scenario_ver/
